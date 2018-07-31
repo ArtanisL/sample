@@ -3,4 +3,5 @@ Welcome to git world!
 
 Modify git repo
 
-Creating a new branch master
+Creating a new branch conflict
+
